@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.anonymousrand.setseedvideos.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinDrowned",
+    "MixinEnderDragon",
+    "MixinHoldingPatternPhase",
+    "MixinMobSpawnerLogic",
+    "AccessorAbstractPhase"
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
