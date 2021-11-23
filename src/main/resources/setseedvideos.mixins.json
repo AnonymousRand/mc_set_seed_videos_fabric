@@ -4,11 +4,16 @@
   "package": "net.anonymousrand.setseedvideos.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "AccessorAbstractPhase",
+    "AccessorEntityMembers",
     "MixinDrowned",
     "MixinEnderDragon",
+    "MixinGhast",
     "MixinHoldingPatternPhase",
+    "MixinMagmaCube",
     "MixinMobSpawnerLogic",
-    "AccessorAbstractPhase"
+    "MixinSkeleton",
+    "MixinWitherSkeleton"
   ],
   "client": [
 
