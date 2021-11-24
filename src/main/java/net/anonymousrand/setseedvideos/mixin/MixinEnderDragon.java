@@ -25,7 +25,7 @@ public abstract class MixinEnderDragon {
     private void forcePerch(CallbackInfo info) {
         this.nonPerchTicks++;
 
-        if (this.nonPerchTicks % 1000 == 0 && this.nonPerchTicks > 0) { /**draogn always perches at 50 seconds*/
+        if (this.nonPerchTicks % 1000 == 0 && this.nonPerchTicks > 0) { /**dragon always perches at 50 seconds*/
             this.nonPerchTicks = -1000;
             this.dragon.getPhaseManager().setPhase(PhaseType.LANDING_APPROACH);
         }

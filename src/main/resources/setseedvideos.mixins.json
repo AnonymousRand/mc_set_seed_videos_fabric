@@ -9,11 +9,14 @@
     "MixinDrowned",
     "MixinEnderDragon",
     "MixinGhast",
+    "MixinHoglin",
     "MixinHoldingPatternPhase",
     "MixinMagmaCube",
     "MixinMobSpawnerLogic",
+    "MixinPlayer",
     "MixinSkeleton",
-    "MixinWitherSkeleton"
+    "MixinWitherSkeleton",
+    "MixinZombifiedPiglin"
   ],
   "client": [
 
