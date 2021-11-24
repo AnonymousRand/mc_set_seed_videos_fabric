@@ -1,5 +1,6 @@
 # Fabric Mod Implementation of Set Seed Videos Modded Clients
 For 1.16.1
+
 Mod used for unofficial set seed runs at Iseburg https://www.youtube.com/channel/UCeCT_BJS_o2avWBNiXxEk2w
 
 # Installation instructions:
@@ -11,4 +12,5 @@ Mod used for unofficial set seed runs at Iseburg https://www.youtube.com/channel
 5. Launch the game using a Fabric loader installation and the mod should be loaded (compatible with Java 8. 14, 15, 16, and 17)
 
 This is a mod made with Fabric API, not a modded client, so the code can be shared as it does not include code from the actual game files.
+
 Remove both this mod and Fabric API from your mods folder if you are looking to submit actual speedruns as they are not allowed.
