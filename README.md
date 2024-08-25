@@ -1,4 +1,4 @@
-# Set-Seed-Videos-Fabric
+# MC-Set-Seed-Videos-Fabric
 
 Fabric mod for Minecraft 1.16.1. Used for unofficial set seed runs at [Iseburg](https://www.youtube.com/channel/UCeCT_BJS_o2avWBNiXxEk2w).
 
